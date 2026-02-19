@@ -1,4 +1,5 @@
 # 🍄 Shroom Room — Content Studio
+For test purposes and for education purpose only. 
 
 AI-powered content generator for Instagram posts, blog articles, and email campaigns.
 
